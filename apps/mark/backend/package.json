@@ -52,7 +52,7 @@
     "js-sha256": "^0.9.0",
     "luxon": "^3.0.0",
     "tmp": "^0.2.1",
-    "zod": "3.14.4"
+    "zod": "3.22.3"
   },
   "devDependencies": {
     "@jest/types": "^29.6.1",
