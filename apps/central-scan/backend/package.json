@@ -69,7 +69,7 @@
     "tmp": "^0.2.1",
     "uuid": "^8.3.2",
     "zip-stream": "^4.1.0",
-    "zod": "3.14.4"
+    "zod": "3.22.3"
   },
   "devDependencies": {
     "@jest/types": "^29.6.1",
