@@ -74,7 +74,7 @@
     "setimmediate": "^1.0.5",
     "styled-components": "^5.3.11",
     "use-sound": "^4.0.1",
-    "zod": "3.14.4"
+    "zod": "3.22.3"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.4",
