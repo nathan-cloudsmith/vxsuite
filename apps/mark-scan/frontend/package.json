@@ -89,7 +89,7 @@
     "react-gamepad": "^1.0.3",
     "react-idle-timer": "^5.7.2",
     "react-refresh": "^0.8.3",
-    "react-router-dom": "^5.3.4",
+    "react-router-dom": "^6.0.0",
     "resolve": "1.18.1",
     "resolve-url-loader": "^3.1.2",
     "setimmediate": "^1.0.5",
