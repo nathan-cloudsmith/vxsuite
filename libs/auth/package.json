@@ -43,7 +43,7 @@
     "node-fetch": "^2.6.0",
     "pcsclite": "^1.0.1",
     "recursive-readdir": "^2.2.3",
-    "tmp": "^0.2.1",
+    "tmp": "^0.2.4",
     "uuid": "^9.0.0",
     "yargs": "^17.7.1",
     "zod": "3.14.4"
